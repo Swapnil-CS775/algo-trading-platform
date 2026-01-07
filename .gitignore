@@ -1,0 +1,41 @@
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# STS, IntelliJ, Eclipse and IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+.classpath
+.project
+.settings/
+bin/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables & secrets
+*.env
+application-local.properties
+application-dev.properties
+application.properties
+*.key
+*.pem
+
+# Generated files
+out/
+hs_err_pid*
+replay_pid*
+
+# Node (if you later add React frontend here)
+node_modules/
+build/
+dist/
+
+# AWS credentials
+.aws/
