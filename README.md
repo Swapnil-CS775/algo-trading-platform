@@ -44,6 +44,14 @@ This platform automates trade placement so the trader can:
   <li><b>Build Tool:</b> Maven</li>
 </ul>
 
+<h3>Frontend</h3>
+<ul>
+  <li><b>Framework:</b> React.js</li>
+  <li><b>Language:</b> JavaScript / TypeScript (planned)</li>
+  <li><b>UI Role:</b> Configure trading parameters, view open positions, logs and portfolio P/L</li>
+  <li><b>Future Features:</b> Charts, live candles, notifications</li>
+</ul>
+
 <h3>Planned Integrations</h3>
 <ul>
   <li>Angel One SmartAPI (initial)</li>
